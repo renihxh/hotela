@@ -1,0 +1,16 @@
+.content-contatti>img{
+width: 100%
+}
+.conntatiMap{
+	height: 580px!important;
+}
+.contatti-text>h1{
+ font-family:"OpenSans-bold";
+ font-size: 40px;
+ letter-spacing: 0.02em;
+ color: #fff;
+ text-transform: uppercase;
+ text-align: center;
+}
+
+

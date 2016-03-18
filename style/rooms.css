@@ -1,0 +1,374 @@
+@font-face {
+  font-family: "OpenSans-extrabold";
+    src: url(../tools/font/open-sans.extrabold.ttf) format("truetype");
+}
+@font-face{
+	font-family: "OpenSans-bold";
+	src: url(../tools/font/OpenSans-Bold.ttf)format("truetype");
+}
+@font-face{
+	font-family: "OpenSans-semiboldItalic";
+	src: url(../tools/font/OpenSans-semiboldItalic.ttf)format("truetype");
+}
+@font-face{
+	font-family: "OpenSans-regular";
+	src:url(../tools/font/OpenSans-Regular.ttf)format("truetype");
+}
+@font-face{
+	font-family: "OpenSans-semibold";
+	src:url(../tools/font/OpenSans-Semibold.ttf)format("truetype");
+}
+.room-content{
+	max-width: 1349px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.head-bg>img{
+	width: 100%;
+	height: auto;
+}
+.boy-item{
+	border: 0px!important;
+}
+.boy-item{
+position: absolute;
+display: block;
+top: 235px;
+border: 1px solid #fff;
+text-align: center;
+width: 66%;
+margin-left: 17%;
+margin-right: 17%;
+}
+.boy-item>h2{
+font-family: "OpenSans-extrabold";
+font-size: 23.48px;
+color: #fff;
+text-transform: uppercase;
+margin-top: 73px;
+padding-left: 10px;
+letter-spacing: 0.02em;
+}
+.boy-item>h1{
+	font-family: "OpenSans-bold";
+	font-size: 45.22px;
+	letter-spacing: 0.02em;
+	color: #fff;
+	margin-top: 17px;
+	margin-bottom: 6px;
+	padding-left: 16px;
+	text-transform: uppercase;
+}
+.boy-item>h3{
+	font-family: "OpenSans-semiboldItalic";
+	font-size: 19.34px;
+	letter-spacing: 0.02em;
+	color: #fff;
+	margin-bottom: 83px;
+	padding-left: 20px;
+	margin-top: 0px;
+}
+@media only screen and (max-width: 1178px){
+.boy-item{
+top: 0px;
+margin-top: 24%;
+width: 90%;
+margin-left: 5%;
+margin-right: 5%;
+}
+.boy-item>h2{
+font-size: 27.48px;
+margin-top: 0px;
+padding-left: 10px;
+letter-spacing: 0.02em;
+}
+.boy-item>h1{
+	font-size: 38.22px;
+	margin-top: 10px;
+	padding-left: 0px;
+}
+.boy-item>h3{
+	font-size: 16.34px;
+	margin-bottom: 3px;
+	padding-left: 0px;
+}	
+}
+@media only screen and (max-width: 767px){
+.boy-item>h2{
+font-size: 17.48px;
+margin-top: 0px;
+padding-left: 10px;
+letter-spacing: 0.02em;
+}
+.boy-item>h1{
+	font-size: 21.22px;
+	margin-top: 10px;
+	padding-left: 0px;
+}
+.boy-item>h3{
+	font-size: 12.34px;
+	margin-bottom: 3px;
+	padding-left: 0px;
+}
+}
+@media only screen and (max-width: 460px){
+
+.boy-item>h2{
+font-size: 14.48px;
+padding-left: 10px;
+letter-spacing: 0.02em;
+}
+.boy-item>h1{
+	font-size: 16.22px;
+	margin-top: 10px;
+	padding-left: 0px;
+}
+.boy-item>h3{
+	font-size: 10.34px;
+	margin-bottom: 3px;
+	padding-left: 0px;
+}
+}
+.box-content{
+	border: 1px solid #0071b9;
+	color: #0071b9;
+	max-width: 553px;
+	margin-left: 126px;
+	padding-left: 63px;
+	margin-top: -23px;
+	padding-top: 57px;
+	padding-bottom: 83px;
+}
+.box-content>h3{
+	font-family: "Opensans-extrabold";
+	font-size: 40px;
+	color: #0071b9;
+	text-transform: uppercase;
+}
+.box-content>i{
+color: #0071b9;
+font-size: 33px;
+padding-top: 24px;
+letter-spacing: 0.07em;
+}
+.div-splash{
+	font-size: 33px;
+}
+@media only screen and (max-width: 767px){
+.box-content{
+	width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-left: 10px;
+	margin-top: 15px;
+	padding-top: 7px;
+	padding-bottom: 8px;
+}	
+}
+@media only screen and (max-width: 460px){
+	
+.box-content>h3{
+	font-family: "Opensans-extrabold";
+	font-size: 28px;
+	color: #0071b9;
+	text-transform: uppercase;
+}
+.box-content>i{
+font-size: 21px;
+padding-top: 0px;
+letter-spacing: 0.07em;
+}
+.div-splash{
+	font-size: 22px;
+}
+}
+
+
+.row-junior{
+	margin: 0px;
+}
+.room-col-costume{
+	padding: 0px;
+}
+#owl-room5{
+	margin-top: 76px;
+}
+.col-right-cont{
+	padding: 0px;
+}
+.right-content{
+	max-width: 400px;
+	padding-left: 10px;
+}
+.right-content>i{
+	font-size: 35px;
+	color: #e3004a;
+	margin-top: 80px;
+}
+.right-content>h4{
+font-family: "Opensans-extrabold";
+font-size: 18px;
+text-transform: uppercase;
+letter-spacing: 0.05em;
+line-height: 40px;
+color: #e3004a;
+text-decoration: underline;
+}
+.right-content>p{
+	font-family: "OpenSans-bold";
+	font-size: 13px;
+	color: #868686;
+	letter-spacing: 0.07em;
+	line-height: 30px;
+	margin-top: 70px;
+}
+.right-content .sconit-banbini{
+font-family: "OpenSans-extrabold";
+font-size: 14px;
+color:#e3004a;
+letter-spacing: 0.07em;
+line-height: 30px;
+text-decoration: underline;
+margin-top: 40px;
+
+}
+.menu-picoli{
+	color: #e3004a;
+	text-decoration: underline;
+}
+@media only screen and (max-width: 1199px){
+.box-content{
+	max-width: 553px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#owl-room5{
+	max-width: 727px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.right-content{
+	max-width: 727px;
+	margin: auto;
+	padding-left:10px;
+	padding-right: 10px; 
+}
+.red-border{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+}
+
+.third-section{
+	background-image: url(../images/bg_rooms.jpg);
+ 
+}
+.third-section>h3{
+padding-top: 120px;
+padding-bottom: 110px;
+font-family: "OpenSans-bold";
+font-size: 28px;
+color: #fff;
+letter-spacing: 0.02em;
+text-align: center;
+text-transform: uppercase;
+
+}
+.servizi-row1{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1044px;
+}
+.servizi-row2{
+	margin-top: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1044px;
+}
+.servizi-cost{
+	height: 107px;
+}
+.servizi-cost>h4{
+font-family: "OpenSans-bold";
+font-size: 13px;
+color: #fff;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+.servizi-cost>p{
+	font-family: "OpenSans-semibold";
+	font-size: 12px;
+	letter-spacing: 0.03em;
+	line-height: 21px;
+	color: #fff;
+}
+.third-section>button{
+font-family: "Opensans-extrabold";
+font-size: 13px;
+text-transform: uppercase;
+padding-left: 76px;
+padding-right: 76px;
+padding-top: 23px;
+padding-bottom: 21px;
+margin-left: 40%;
+margin-top: 130px;
+margin-bottom: 128px;
+text-align: center;
+background-color: transparent;
+border-radius: 0px;
+border: 1px solid #fff;
+color:#fff;
+}
+.third-section>button:hover{
+color:#000;
+background-color: #fff;
+-moz-transition: all .3s ease-in;
+-o-transition: all .3s ease-in;
+-webkit-transition: all .3s ease-in;
+transition: all .2s ease-in;
+}
+.red-border{
+	width: 35px;
+	height: 5px;
+	background-color: #e3004a;
+	margin-top: 95px;
+	margin-bottom: 80px;
+}
+@media only screen and (max-width: 1031px){
+.third-section>h3{
+padding-top: 60px;
+padding-bottom: 50px;
+font-family: "OpenSans-bold";
+font-size: 28px;
+color: #fff;
+letter-spacing: 0.02em;
+text-align: center;
+text-transform: uppercase;
+
+}
+}
+@media only screen and (max-width: 860px){
+.third-section>button{
+margin-top: 80px;
+margin-bottom: 40px;
+}
+}
+@media only screen and (max-width: 767px){
+.servizi-cost{
+	height: 90px;
+}
+.servizi-row2{
+	margin-top: 0px;
+}
+.third-section>button{
+font-size: 12px;
+padding-left: 66px;
+padding-right: 66px;
+padding-top: 16px;
+padding-bottom: 14px;
+margin-left: 40%;
+margin-top: 30px;
+margin-bottom: 12px;
+}
+}

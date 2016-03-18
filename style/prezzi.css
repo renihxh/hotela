@@ -1,0 +1,138 @@
+@font-face {
+  font-family: "OpenSans-extrabold";
+    src: url(../tools/font/open-sans.extrabold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "VarelaRound-Regular";
+    src: url(../tools/font/VarelaRound-Regular.otf) format("truetype");
+}
+.head-prezzi{
+	max-width: 1349px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.head-prezzi>img{
+	width: 100%;
+	margin-top: 144px;
+}
+.prezzi-table{
+margin-top: -120px;
+}
+.prezzi-row{
+	position: relative;
+	height: auto;
+	width: 74%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 19px;
+}
+
+.prezzi-row>h3{
+	text-align: center;
+	background-color: #6482ae;
+	font-family:"OpenSans-extrabold";
+	font-size: 18px;
+	letter-spacing: 0.07em;
+	color: #fff;
+	text-transform: uppercase;
+	margin: 0px;
+	padding-top: 23px;
+	padding-bottom: 20px;
+}
+.col-lg-5cost {
+    position: relative;
+    min-height: 1px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+@media (min-width: 1200px) {
+    .col-lg-5cost {
+        width: 20%;
+        float: left;
+    }
+}
+.prezi-col{
+	background-color: #fff;
+	border: 1px solid #dcdcdc;
+}
+.prezi-col>p{
+	text-align: center;	
+	font-family:"OpenSans-extrabold";
+	font-size: 14px;
+	letter-spacing: 0.03em;
+	margin-top: 24px;
+	color: #6d8ebe;
+}
+.prezi-col .euro-sign{
+	float: left;
+}
+.prezi-col .lgnum{
+	width: 58px;
+	margin-top: 10px;
+	font-size: 48px;
+	color: #3c4e69;
+}
+.prezi-col .fa-eur{
+float: left;
+margin-top: 16px;
+margin-right: 3px;
+margin-left: 30%;
+margin-bottom: 70px;
+color: #3c4e69;
+}
+.prezi-col .ggcost{
+	color: #3c4e69;
+	font-family: "VarelaRound-Regular";
+}
+.prezi-col-last{
+	background-color: #fff;
+	border: 1px solid #dcdcdc;
+	padding: 0px;
+	height: 176px;
+}
+.prezi-col-last>p{
+	text-align: center;	
+	font-family:"OpenSans-extrabold";
+	font-size: 12px;
+	letter-spacing: 0.03em;
+	margin-top: 24px;
+	color: #6d8ebe;
+	text-transform: uppercase;
+	line-height: 15px;
+	margin-bottom: 31px;
+}
+.prezi-col-last .lgnum{
+	width: 58px;
+	margin-top: 10px;
+	font-size: 48px;
+	color: #3c4e69;
+}
+.prezi-col-last .fa-eur{
+float: left;
+margin-top: 16px;
+margin-right: 3px;
+margin-left: 21.6%;
+margin-bottom: 70px;
+color: #3c4e69;
+}
+.prezi-col-last .fa-plus{
+	float: left;
+	margin-top: 16px;
+	margin-right: 3px;
+	margin-left: 21.6%;
+	color: #3c4e69;
+}
+.prezi-col-last .ggcost{
+	color: #3c4e69;
+	font-family: "VarelaRound-Regular";
+}
+.paragraph2{
+	margin-top: 0px!important;
+}
+.paragraph1{
+	margin-bottom: 0px!important;
+}
+.lastph{
+	margin-bottom: 13px!important;
+}

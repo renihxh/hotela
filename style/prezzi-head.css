@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "OpenSans-extrabold";
+    src: url(../tools/font/open-sans.extrabold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Verdana-bold";
+    src: url(../tools/font/verdanab.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Georgia-bold";
+    src: url(../tools/font/georgiab.ttf) format("truetype");
+}
+@font-face {
+  font-family: "OpenSans-semibold";
+    src: url(../tools/font/OpenSans-Semibold.ttf) format("truetype");
+}
+.header{
+	z-index: 999;
+	position: absolute;
+	margin-right: 0px!important;
+	margin-left: 0px;
+	padding-left: 30px;
+	max-width: 1349px;
+	width: 100%;
+}
+.col-logo{
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.col-logo{
+	display: none;
+}
+.headlogo-prezzi>img{
+	margin-top: 45px;
+	width: 220px;
+}
+.language>li>a{
+	color: #6d8ebe;
+}
+.language>li>a:hover{
+	color: #6d8ebe;
+	border-bottom: 1px solid #6d8ebe;
+}
+.navbar-menu .li-costume>li>a{
+	color: #6d8ebe;
+}
+
+.navbar-menu .li-costume>li>a:hover{
+	color: #6d8ebe;
+	border-bottom: 1px solid #6d8ebe;
+}
+
+.default-costume:active, .btn-default.active, .open > .dropdown-toggle.btn-default{
+	background-color: #6d8ebe!important;
+	color: #fff!important;
+}
+.default-costume:focus{
+	background-color: #6d8ebe!important;
+	color: #6d8ebe;
+
+}
+.v-disponibla>button{
+	border: 1px solid #6d8ebe;
+	border-radius: 0px;
+	color: #6d8ebe;
+	text-decoration: none;
+}
+.v-disponibla>button:hover{
+	background-color: #0071b9;
+	color: #fff;
+	text-decoration: none;
+}
