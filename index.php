@@ -1,5 +1,5 @@
+<?php  include("source/header_menu.php"); ?>
 <div class="content">
-  <?php  include("source/header_menu.php"); ?>
   <div id="owl-demo" class="owl-carousel carousel-costume">
     <div class="item">
         <img src="images/home_header.jpg" alt="girl">
@@ -172,6 +172,8 @@
     </div> 
  <?php include("source/contacti.php"); ?>
     <div id="googleMap"></div>
-  <?php include("source/footer.php"); ?>
+  
 </div>
+
+<?php include("source/footer.php"); ?>
 

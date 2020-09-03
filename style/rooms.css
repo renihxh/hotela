@@ -38,8 +38,8 @@ top: 235px;
 border: 1px solid #fff;
 text-align: center;
 width: 66%;
-margin-left: 17%;
-margin-right: 17%;
+margin-left: auto;
+margin-right:auto;
 }
 .boy-item>h2{
 font-family: "OpenSans-extrabold";
@@ -74,8 +74,6 @@ letter-spacing: 0.02em;
 top: 0px;
 margin-top: 24%;
 width: 90%;
-margin-left: 5%;
-margin-right: 5%;
 }
 .boy-item>h2{
 font-size: 27.48px;

@@ -1,5 +1,5 @@
+<?php  include("source/header_menu.php"); ?>
 <div class="room-content">
-  <?php  include("source/header_menu.php"); ?>
   <div class="head-bg">
   	<img src="images/boy.jpg" alt="boy-bg">
 	  <div class="boy-item">
@@ -86,5 +86,5 @@
   	<button>vedi i prezzi</button>
   </div>
   <?php include("source/contacti.php"); ?>
-  <?php include("source/footer.php"); ?>
 </div>
+<?php include("source/footer.php"); ?>

@@ -14,12 +14,12 @@
   font-family: "OpenSans-semibold";
     src: url(../tools/font/OpenSans-Semibold.ttf) format("truetype");
 }
+.p-relative{
+	position: relative;
+}
 .header{
 	z-index: 999;
 	position: absolute;
-	margin-right: 0px!important;
-	margin-left: 0px;
-	padding-left: 30px;
 	max-width: 1349px;
 	width: 100%;
 }
